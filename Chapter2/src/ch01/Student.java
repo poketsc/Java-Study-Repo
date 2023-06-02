@@ -8,6 +8,4 @@ public class Student {
 	String majorName;
 	int grade;
 	
-	
-
 }
